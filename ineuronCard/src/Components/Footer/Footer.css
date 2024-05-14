@@ -1,0 +1,31 @@
+footer{
+    height: 100%;
+    width: 100%;
+    color: white;
+
+    
+}
+.link{
+    margin: 15px 30px 0px 30px;
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.links h1{
+    font-size: 18px;
+    margin-top: 20px;
+}
+.links p{
+    margin-top: 14px;
+}
+.links input{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    margin: 15px ;
+    padding: 13px 20px;
+    border: 1px solid black;
+    border-radius: 10px;
+    outline: none;
+}
